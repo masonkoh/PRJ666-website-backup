@@ -1,4 +1,4 @@
-# PRJ666_website_backup
+# PRJ666 website backup
 
 ![Platform](https://img.shields.io/badge/Platform-WebSite-silver.svg)
 ![Language](https://img.shields.io/badge/Language-HTML%20%7C%20CSS%20%7C%20JavsScript-orange.svg)
